@@ -1,0 +1,7 @@
+E:\C#\online\W02\baitap2\tinhbmi\tinhbmi\bin\Debug\tinhbmi.exe.config
+E:\C#\online\W02\baitap2\tinhbmi\tinhbmi\bin\Debug\tinhbmi.exe
+E:\C#\online\W02\baitap2\tinhbmi\tinhbmi\bin\Debug\tinhbmi.pdb
+E:\C#\online\W02\baitap2\tinhbmi\tinhbmi\obj\Debug\tinhbmi.csproj.AssemblyReference.cache
+E:\C#\online\W02\baitap2\tinhbmi\tinhbmi\obj\Debug\tinhbmi.csproj.CoreCompileInputs.cache
+E:\C#\online\W02\baitap2\tinhbmi\tinhbmi\obj\Debug\tinhbmi.exe
+E:\C#\online\W02\baitap2\tinhbmi\tinhbmi\obj\Debug\tinhbmi.pdb
